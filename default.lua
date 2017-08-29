@@ -1,4 +1,4 @@
---Texts
+é--Texts
 strings = {
 
 -------------	Explorer	----------------------------------------------
@@ -30,7 +30,7 @@ themes =		"Thèmes AppManager+",
 pluginsman =	"Gestionnaire de Plugins",
 cthemesman =	"Thèmes personnalisés",
 ftp =			"FTP",
-restarthb =		"Redémarrer l'app",
+restarthb =		"Redémarrer AppManager+",
 reset =			"Réinitialiser",
 off =			"Éteindre",
 
